@@ -1,0 +1,13 @@
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\bin\Debug\netcoreapp3.1\Week1Academy.exe
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\bin\Debug\netcoreapp3.1\Week1Academy.deps.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\bin\Debug\netcoreapp3.1\Week1Academy.runtimeconfig.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\bin\Debug\netcoreapp3.1\Week1Academy.runtimeconfig.dev.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\bin\Debug\netcoreapp3.1\Week1Academy.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\bin\Debug\netcoreapp3.1\Week1Academy.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\obj\Debug\netcoreapp3.1\Week1Academy.csprojAssemblyReference.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\obj\Debug\netcoreapp3.1\Week1Academy.AssemblyInfoInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\obj\Debug\netcoreapp3.1\Week1Academy.AssemblyInfo.cs
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\obj\Debug\netcoreapp3.1\Week1Academy.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\obj\Debug\netcoreapp3.1\Week1Academy.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\obj\Debug\netcoreapp3.1\Week1Academy.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy 2\Settimana 1\Week1Academy\Week1Academy\obj\Debug\netcoreapp3.1\Week1Academy.genruntimeconfig.cache
